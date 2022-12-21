@@ -1,4 +1,4 @@
-var audio = new Audio('https://freesound.org/data/previews/316/316847_4939433-lq.mp3');
+var audio = new Audio('alarm_music.mp3');
 audio.loop = true;
 
 let current_time = document.getElementById("current-time");
